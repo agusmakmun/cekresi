@@ -7,7 +7,7 @@ Free Chrome Extension _(Cek Tarif & Resi JNE)_
 Installation
 -------
 
-* Cloning this project: `git clone git@github.com:agusmakmun/cekresi.git`
+* Clone this project: `git clone git@github.com:agusmakmun/cekresi.git`
 
 * Type `chrome://extensions` on your browser.
 
