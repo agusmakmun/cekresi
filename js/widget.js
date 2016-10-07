@@ -1,5 +1,6 @@
 /* 
   Original source: http://widget.cekresi.co.id/widget.js
+  This JS not used yet.
 */
 
 function init_widget_jne(token){
