@@ -1,4 +1,4 @@
-Free Chrome Extension Cek Tarif & Resi JNE
+Free Chrome Extension _(Cek Tarif & Resi JNE)_
 -------
 
 > This Chrome Extension bassed on [_Widget Ongkir & Resi_](http://www.cekresi.co.id/widget.php)
