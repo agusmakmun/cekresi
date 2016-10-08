@@ -7,10 +7,11 @@
    "description": "Cek Tarif & Resi JNE gratis.",
    "homepage_url": "https://github.com/agusmakmun/cekresi",
    "icons": {
-      "128": "icons/icon128.png",
       "16": "icons/icon16.png",
       "48": "icons/icon48.png",
-      "64": "icons/icon64.png"
+      "64": "icons/icon64.png",
+      "96": "icons/icon96.png",
+      "128": "icons/icon128.png"
    },
    "manifest_version": 2,
    "name": "Cek Tarif & Resi JNE",
